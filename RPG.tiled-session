@@ -1,0 +1,225 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Tileset/Monsters/Undead.tsx",
+    "expandedProjectPaths": [
+        "Tileset/Projectile",
+        "MiniWorldSprites/Characters",
+        "Tileset/Monsters",
+        "Tileset/Misc",
+        "Tileset",
+        ".",
+        "Tileset/Spell"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "Tileset/Animal.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Animal/Animal.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Building/Buildings.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Buildings.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.25
+        },
+        "Tileset/Champ.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Character/Champ.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Cliff-Water.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "Tileset/Gangblanc.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "Tileset/Ground.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "Tileset/Ground/Ground.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Misc.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Misc/Misc.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Monster.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Monsters/Demons.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Monsters/Dragons.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Monsters/Frostborn.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Monsters/GAnimal.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Monsters/Orcs.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Monsters/Pirates.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Monsters/Slime.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Monsters/Undead.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/NPC.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/NPC/Melee.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/NPC/Mounted.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/NPC/Ranged.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/NPC/Worker.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Nature.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Nature/Nature.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Particle.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Particle/Particles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Projectile/Projectile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Spell/Buff.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Spell/Debuff.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Spell/Spell.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Template.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/UI.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "Tileset/UI/UI.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.33
+        },
+        "Tileset/UI/UI2.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "a.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/Shiro/Downloads/RPG project/RawFile",
+    "map.fixedSize": false,
+    "map.height": 128,
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 128,
+    "openFiles": [
+        "Tileset/Particle/Particles.tsx",
+        "Tileset/Misc/Misc.tsx",
+        "Tileset/Monsters/Dragons.tsx",
+        "Tileset/Monsters/GAnimal.tsx",
+        "Tileset/Monsters/Pirates.tsx",
+        "Tileset/Monsters/Undead.tsx"
+    ],
+    "project": "RPG.tiled-project",
+    "recentFiles": [
+        "Tileset/Particle/Particles.tsx",
+        "Tileset/Misc/Misc.tsx",
+        "Tileset/Monsters/Dragons.tsx",
+        "Tileset/Monsters/GAnimal.tsx",
+        "Tileset/Monsters/Pirates.tsx",
+        "Tileset/Monsters/Undead.tsx",
+        "Tileset/Projectile/Projectile.tsx",
+        "Tileset/Spell/Buff.tsx",
+        "Tileset/Spell/Debuff.tsx",
+        "Tileset/Spell/Spell.tsx",
+        "Tileset/UI/UI2.tsx",
+        "Tileset/UI/UI.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.type": 1
+}
