@@ -3,15 +3,17 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Tileset/Monsters/Undead.tsx",
+    "activeFile": "Tileset/Misc/Portal.tsx",
     "expandedProjectPaths": [
-        "Tileset/Projectile",
+        "Tileset",
+        "Tileset/Misc",
+        "Tileset/Building",
+        "Tileset/Spell",
         "MiniWorldSprites/Characters",
         "Tileset/Monsters",
-        "Tileset/Misc",
-        "Tileset",
-        ".",
-        "Tileset/Spell"
+        "Tileset/Projectile",
+        "Tileset/Ground",
+        "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -23,7 +25,43 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "Tileset/Building/AllBuildings-Preview.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "Tileset/Building/Barracks.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "Tileset/Building/Buildings.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Building/Houses.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Building/Keep.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "Tileset/Building/Market.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "Tileset/Building/Mausoleum.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "Tileset/Building/SpearWall.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "Tileset/Building/Taverns.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Building/Workshops.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
@@ -53,7 +91,35 @@
             "scaleInDock": 1,
             "scaleInEditor": 1.5
         },
+        "Tileset/Ground/Cliff-Water.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Ground/Cliff.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Ground/DeadGrass.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Ground/Grass.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "Tileset/Ground/Ground.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Ground/Shore.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Ground/TexturedGrass.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Ground/Winter.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
@@ -62,7 +128,59 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "Tileset/Misc/Cactus.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Misc/CoconutTrees.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Misc/DeadTrees.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "Tileset/Misc/Misc.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Misc/PineTrees.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Misc/Portal.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Misc/QuestBoard.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Misc/Rocks.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Misc/Trees.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Misc/Tumbleweed.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Misc/Well.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Misc/Wheatfield.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Misc/WinterDeadTrees.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Misc/WinterTrees.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
@@ -187,39 +305,46 @@
             "scaleInEditor": 1
         }
     },
-    "last.imagePath": "C:/Users/Shiro/Downloads/RPG project/RawFile",
+    "last.imagePath": "C:/Users/Shiro/Downloads/MiniWorldSprites/Miscellaneous",
     "map.fixedSize": false,
     "map.height": 128,
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "map.width": 128,
     "openFiles": [
-        "Tileset/Particle/Particles.tsx",
-        "Tileset/Misc/Misc.tsx",
-        "Tileset/Monsters/Dragons.tsx",
-        "Tileset/Monsters/GAnimal.tsx",
-        "Tileset/Monsters/Pirates.tsx",
-        "Tileset/Monsters/Undead.tsx"
+        "Tileset/Misc/Rocks.tsx",
+        "Tileset/Misc/WinterDeadTrees.tsx",
+        "Tileset/Misc/PineTrees.tsx",
+        "Tileset/Misc/WinterTrees.tsx",
+        "Tileset/Misc/Tumbleweed.tsx",
+        "Tileset/Misc/DeadTrees.tsx",
+        "Tileset/Misc/Cactus.tsx",
+        "Tileset/Misc/CoconutTrees.tsx",
+        "Tileset/Misc/Trees.tsx",
+        "Tileset/Misc/Wheatfield.tsx",
+        "Tileset/Misc/Well.tsx",
+        "Tileset/Misc/QuestBoard.tsx",
+        "Tileset/Misc/Portal.tsx"
     ],
     "project": "RPG.tiled-project",
     "recentFiles": [
-        "Tileset/Particle/Particles.tsx",
-        "Tileset/Misc/Misc.tsx",
-        "Tileset/Monsters/Dragons.tsx",
-        "Tileset/Monsters/GAnimal.tsx",
-        "Tileset/Monsters/Pirates.tsx",
-        "Tileset/Monsters/Undead.tsx",
-        "Tileset/Projectile/Projectile.tsx",
-        "Tileset/Spell/Buff.tsx",
-        "Tileset/Spell/Debuff.tsx",
-        "Tileset/Spell/Spell.tsx",
-        "Tileset/UI/UI2.tsx",
-        "Tileset/UI/UI.tsx"
+        "Tileset/Misc/Rocks.tsx",
+        "Tileset/Misc/WinterDeadTrees.tsx",
+        "Tileset/Misc/PineTrees.tsx",
+        "Tileset/Misc/WinterTrees.tsx",
+        "Tileset/Misc/Tumbleweed.tsx",
+        "Tileset/Misc/DeadTrees.tsx",
+        "Tileset/Misc/Cactus.tsx",
+        "Tileset/Misc/CoconutTrees.tsx",
+        "Tileset/Misc/Trees.tsx",
+        "Tileset/Misc/Wheatfield.tsx",
+        "Tileset/Misc/Well.tsx",
+        "Tileset/Misc/QuestBoard.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
         "height": 16,
         "width": 16
     },
-    "tileset.type": 1
+    "tileset.type": 0
 }
