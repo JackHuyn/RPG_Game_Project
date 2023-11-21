@@ -3,20 +3,31 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Tileset/Misc/Portal.tsx",
+    "activeFile": "",
     "expandedProjectPaths": [
-        "Tileset",
-        "Tileset/Misc",
-        "Tileset/Building",
-        "Tileset/Spell",
-        "MiniWorldSprites/Characters",
-        "Tileset/Monsters",
         "Tileset/Projectile",
-        "Tileset/Ground",
-        "."
+        ".",
+        "Tileset/Building",
+        "Tileset/Misc",
+        "Tileset",
+        "MiniWorldSprites/Characters",
+        "Tileset/Spell",
+        "Tileset/Monsters",
+        "Tileset/Ground"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
+        "C:/Users/Shiro/Desktop/test map/test1.tmx": {
+            "expandedGroupLayers": [
+                5
+            ],
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 139,
+                "y": -30
+            }
+        },
         "Tileset/Animal.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -96,7 +107,7 @@
             "scaleInEditor": 1
         },
         "Tileset/Ground/Cliff.tsx": {
-            "scaleInDock": 1,
+            "scaleInDock": 1.5,
             "scaleInEditor": 1
         },
         "Tileset/Ground/DeadGrass.tsx": {
@@ -116,7 +127,7 @@
             "scaleInEditor": 1
         },
         "Tileset/Ground/TexturedGrass.tsx": {
-            "scaleInDock": 1,
+            "scaleInDock": 5.5,
             "scaleInEditor": 1
         },
         "Tileset/Ground/Winter.tsx": {
@@ -305,41 +316,31 @@
             "scaleInEditor": 1
         }
     },
+    "last.exportedFilePath": "C:/Users/Shiro/Desktop/test map",
     "last.imagePath": "C:/Users/Shiro/Downloads/MiniWorldSprites/Miscellaneous",
-    "map.fixedSize": false,
-    "map.height": 128,
+    "map.fixedSize": true,
+    "map.height": 1024,
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "tmx",
     "map.tileHeight": 16,
     "map.tileWidth": 16,
-    "map.width": 128,
+    "map.width": 1024,
     "openFiles": [
-        "Tileset/Misc/Rocks.tsx",
-        "Tileset/Misc/WinterDeadTrees.tsx",
-        "Tileset/Misc/PineTrees.tsx",
-        "Tileset/Misc/WinterTrees.tsx",
-        "Tileset/Misc/Tumbleweed.tsx",
-        "Tileset/Misc/DeadTrees.tsx",
-        "Tileset/Misc/Cactus.tsx",
-        "Tileset/Misc/CoconutTrees.tsx",
-        "Tileset/Misc/Trees.tsx",
-        "Tileset/Misc/Wheatfield.tsx",
-        "Tileset/Misc/Well.tsx",
-        "Tileset/Misc/QuestBoard.tsx",
-        "Tileset/Misc/Portal.tsx"
     ],
     "project": "RPG.tiled-project",
     "recentFiles": [
+        "Tileset/Ground/Grass.tsx",
+        "C:/Users/Shiro/Desktop/test map/test1.tmx",
+        "Tileset/Building/Houses.tsx",
+        "Tileset/Ground/Cliff.tsx",
+        "Tileset/Ground/Cliff-Water.tsx",
         "Tileset/Misc/Rocks.tsx",
         "Tileset/Misc/WinterDeadTrees.tsx",
         "Tileset/Misc/PineTrees.tsx",
         "Tileset/Misc/WinterTrees.tsx",
         "Tileset/Misc/Tumbleweed.tsx",
         "Tileset/Misc/DeadTrees.tsx",
-        "Tileset/Misc/Cactus.tsx",
-        "Tileset/Misc/CoconutTrees.tsx",
-        "Tileset/Misc/Trees.tsx",
-        "Tileset/Misc/Wheatfield.tsx",
-        "Tileset/Misc/Well.tsx",
-        "Tileset/Misc/QuestBoard.tsx"
+        "Tileset/Misc/Cactus.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
