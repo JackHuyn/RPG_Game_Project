@@ -5,15 +5,14 @@
     },
     "activeFile": "Tileset/Ground/map.tmx",
     "expandedProjectPaths": [
-        "Tileset/Misc",
-        "Tileset/Ground",
-        ".",
-        "Tileset",
-        "Tileset/Spell",
-        "Tileset/Monsters",
-        "Tileset/Building",
         "MiniWorldSprites/Characters",
-        "Tileset/Projectile"
+        "Tileset/Misc",
+        "Tileset/Spell",
+        "Tileset/Building",
+        "Tileset",
+        ".",
+        "Tileset/Projectile",
+        "Tileset/Monsters"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -205,11 +204,11 @@
             "scaleInEditor": 1
         },
         "Tileset/Ground/map.tmx": {
-            "scale": 0.25,
-            "selectedLayer": 1,
+            "scale": 1,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": -12,
-                "y": -1876
+                "x": -1052,
+                "y": -1489
             }
         },
         "Tileset/Ground/map.tmx#2P2L_A": {
@@ -218,6 +217,9 @@
         "Tileset/Ground/map.tmx#DiiKF_": {
             "scaleInDock": 0.5
         },
+        "Tileset/Ground/map.tmx#building": {
+            "scaleInDock": 2
+        },
         "Tileset/Ground/map.tmx#j0cZsp": {
             "scaleInDock": 1
         },
@@ -225,7 +227,7 @@
             "scaleInDock": 1
         },
         "Tileset/Ground/map.tmx#nature": {
-            "scaleInDock": 2
+            "scaleInDock": 1.5
         },
         "Tileset/Misc.tsx": {
             "dynamicWrapping": true,

@@ -106,9 +106,6 @@ class Level:
 									self.trigger_death_particles,
 									self.add_exp)
 								
-
-
-		print('Finish map')
 							
 	
 	def re_nature(self):
