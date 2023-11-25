@@ -5,15 +5,15 @@
     },
     "activeFile": "",
     "expandedProjectPaths": [
-        "Tileset/Misc",
-        "Tileset/Spell",
+        "Tileset/Projectile",
         "Tileset/Building",
         "Tileset/Ground",
+        "Tileset/Spell",
         "MiniWorldSprites/Characters",
-        "Tileset/Monsters",
         ".",
         "Tileset",
-        "Tileset/Projectile"
+        "Tileset/Misc",
+        "Tileset/Monsters"
     ],
     "exportAsImage.includeBackgroundColor": true,
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -72,6 +72,9 @@
         },
         "#building": {
             "scaleInDock": 1
+        },
+        "#buildings": {
+            "scaleInDock": 0.33
         },
         "#map": {
             "scaleInDock": 1.5
@@ -212,8 +215,8 @@
             "scale": 0.25,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": -634,
-                "y": 1896
+                "x": -642,
+                "y": 1884
             }
         },
         "Tileset/Ground/map.tmx#2P2L_A": {
@@ -240,7 +243,7 @@
         },
         "Tileset/Ground/new_terrain.tsx": {
             "scaleInDock": 1,
-            "scaleInEditor": 4
+            "scaleInEditor": 1
         },
         "Tileset/Ground/terrain.tsx": {
             "scaleInDock": 1,
@@ -437,21 +440,20 @@
         }
     },
     "last.exportedFilePath": "C:/Users/Shiro/Desktop/test map",
-    "last.imagePath": "C:/Users/Shiro/Downloads/RPG project/RPG_Game_Project/Tileset/Boundary",
+    "last.imagePath": "C:/Users/Shiro/Downloads/RPG project/RPG_Game_Project/MiniWorldSprites/Miscellaneous",
     "map.fixedSize": true,
-    "map.height": 32,
+    "map.height": 64,
     "map.lastUsedExportFilter": "CSV files (*.csv)",
     "map.lastUsedFormat": "tmx",
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "map.width": 64,
     "openFiles": [
-        "Tileset/Ground/new_terrain.tsx"
     ],
     "project": "RPG.tiled-project",
     "recentFiles": [
-        "Tileset/Ground/new_terrain.tsx",
         "Tileset/Ground/map.tmx",
+        "Tileset/Ground/new_terrain.tsx",
         "Tileset/Ground/terrain.tsx",
         "Tileset/Ground/nature.tsx",
         "Tileset/Ground/terrain_decor.tsx",
