@@ -3,17 +3,17 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "Tileset/Ground/map.tmx",
     "expandedProjectPaths": [
-        "Tileset/Projectile",
-        "Tileset/Building",
-        "Tileset/Ground",
-        "Tileset/Spell",
-        "MiniWorldSprites/Characters",
         ".",
+        "Tileset/Monsters",
         "Tileset",
+        "Tileset/Projectile",
+        "Tileset/Ground",
         "Tileset/Misc",
-        "Tileset/Monsters"
+        "MiniWorldSprites/Characters",
+        "Tileset/Spell",
+        "Tileset/Building"
     ],
     "exportAsImage.includeBackgroundColor": true,
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -212,11 +212,11 @@
             "scaleInEditor": 1
         },
         "Tileset/Ground/map.tmx": {
-            "scale": 0.25,
-            "selectedLayer": 0,
+            "scale": 0.125,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": -642,
-                "y": 1884
+                "x": -444,
+                "y": -948
             }
         },
         "Tileset/Ground/map.tmx#2P2L_A": {
@@ -449,6 +449,7 @@
     "map.tileWidth": 16,
     "map.width": 64,
     "openFiles": [
+        "Tileset/Ground/map.tmx"
     ],
     "project": "RPG.tiled-project",
     "recentFiles": [
