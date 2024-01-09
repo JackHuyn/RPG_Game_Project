@@ -5,21 +5,21 @@
     },
     "activeFile": "Tileset/Ground/map.tmx",
     "expandedProjectPaths": [
-        ".",
-        "Tileset/Monsters",
         "Tileset",
-        "Tileset/Projectile",
-        "Tileset/Ground",
+        "Tileset/Building",
+        ".",
         "Tileset/Misc",
-        "MiniWorldSprites/Characters",
         "Tileset/Spell",
-        "Tileset/Building"
+        "Tileset/Projectile",
+        "MiniWorldSprites/Characters",
+        "Tileset/Ground",
+        "Tileset/Monsters"
     ],
     "exportAsImage.includeBackgroundColor": true,
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 0.5,
+            "scaleInDock": 2,
             "scaleInEditor": 1
         },
         "#ArmouredRedDemon": {
@@ -72,9 +72,6 @@
         },
         "#building": {
             "scaleInDock": 1
-        },
-        "#buildings": {
-            "scaleInDock": 0.33
         },
         "#map": {
             "scaleInDock": 1.5
@@ -176,6 +173,9 @@
             "scaleInDock": 1,
             "scaleInEditor": 1.5
         },
+        "Tileset/Ground/Bridge.tsx": {
+            "scaleInDock": 1
+        },
         "Tileset/Ground/Cliff-Water.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -207,16 +207,22 @@
             "scaleInDock": 4,
             "scaleInEditor": 1
         },
+        "Tileset/Ground/Tombstones.tsx": {
+            "scaleInDock": 1
+        },
         "Tileset/Ground/Winter.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "Tileset/Ground/buildings.tsx": {
+            "scaleInDock": 1.5
+        },
         "Tileset/Ground/map.tmx": {
-            "scale": 0.125,
-            "selectedLayer": 1,
+            "scale": 1,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": -444,
-                "y": -948
+                "x": 1436.5,
+                "y": 1241
             }
         },
         "Tileset/Ground/map.tmx#2P2L_A": {
@@ -225,8 +231,14 @@
         "Tileset/Ground/map.tmx#DiiKF_": {
             "scaleInDock": 0.5
         },
+        "Tileset/Ground/map.tmx#alives_other": {
+            "scaleInDock": 1.5
+        },
         "Tileset/Ground/map.tmx#building": {
             "scaleInDock": 2
+        },
+        "Tileset/Ground/map.tmx#chests": {
+            "scaleInDock": 1
         },
         "Tileset/Ground/map.tmx#j0cZsp": {
             "scaleInDock": 1
@@ -235,14 +247,14 @@
             "scaleInDock": 1
         },
         "Tileset/Ground/map.tmx#nature": {
-            "scaleInDock": 1.5
+            "scaleInDock": 2
         },
         "Tileset/Ground/nature.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "Tileset/Ground/new_terrain.tsx": {
-            "scaleInDock": 1,
+            "scaleInDock": 2,
             "scaleInEditor": 1
         },
         "Tileset/Ground/terrain.tsx": {
@@ -252,6 +264,9 @@
         "Tileset/Ground/terrain_decor.tsx": {
             "scaleInDock": 2,
             "scaleInEditor": 1
+        },
+        "Tileset/Ground/things.tsx": {
+            "scaleInDock": 1
         },
         "Tileset/Misc.tsx": {
             "dynamicWrapping": true,
@@ -439,10 +454,11 @@
             "scaleInEditor": 1
         }
     },
-    "last.exportedFilePath": "C:/Users/Shiro/Desktop/test map",
-    "last.imagePath": "C:/Users/Shiro/Downloads/RPG project/RPG_Game_Project/MiniWorldSprites/Miscellaneous",
+    "last.exportedFilePath": "C:/Users/Shiro/Downloads/RPG_Game_Project-main/export",
+    "last.externalTilesetPath": "C:/Users/Shiro/Downloads/RPG_Game_Project-main/Tileset/monster",
+    "last.imagePath": "C:/Users/Shiro/Downloads/MiniWorldSprites/Ground",
     "map.fixedSize": true,
-    "map.height": 64,
+    "map.height": 32,
     "map.lastUsedExportFilter": "CSV files (*.csv)",
     "map.lastUsedFormat": "tmx",
     "map.tileHeight": 16,
@@ -454,19 +470,20 @@
     "project": "RPG.tiled-project",
     "recentFiles": [
         "Tileset/Ground/map.tmx",
+        "Tileset/Ground/Cliff-Water.tsx",
+        "Tileset/Ground/DeadGrass.tsx",
+        "Tileset/Ground/Grass.tsx",
+        "Tileset/Ground/Cliff.tsx",
+        "Tileset/Ground/Shore.tsx",
+        "Tileset/Ground/TexturedGrass.tsx",
+        "Tileset/Ground/Winter.tsx",
         "Tileset/Ground/new_terrain.tsx",
         "Tileset/Ground/terrain.tsx",
         "Tileset/Ground/nature.tsx",
-        "Tileset/Ground/terrain_decor.tsx",
-        "Tileset/Misc/Cactus.tsx",
-        "Tileset/Ground/Shore.tsx",
-        "Tileset/Ground/TexturedGrass.tsx",
-        "Tileset/Ground/Grass.tsx",
-        "C:/Users/Shiro/Desktop/test map/test1.tmx",
-        "Tileset/Building/Houses.tsx",
-        "Tileset/Ground/Cliff.tsx"
+        "Tileset/Ground/terrain_decor.tsx"
     ],
     "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "All Files (*)",
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
         "height": 16,
