@@ -31,8 +31,9 @@ class Game:
                 if action == "start":
                     self.in_front_page = False
                     self.in_game = True
-                    self.in_character_selection = True
-                    self.character_selection = CharacterSelection(self.screen)
+                    # disable char select for now
+                    # self.in_character_selection = True
+                    # self.character_selection = CharacterSelection(self.screen)
                 elif action == "load":
                     self.level.player.kill()
                     self.level.load_game('011200')
