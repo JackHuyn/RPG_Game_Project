@@ -70,8 +70,8 @@ class Level:
 					if col != '-1':
 						x = col_index * TILESIZE
 						y = row_index * TILESIZE
-						if style == 'boundary':
-							Tile((x,y),[self.obstacle_sprites],'invisible')
+						# if style == 'boundary':
+						# 	Tile((x,y),[self.obstacle_sprites],'invisible')
 						if style == 'grass':
 							random_grass_image = choice(self.graphics['grass'])
 							Tile(
@@ -328,7 +328,7 @@ class YSortCameraGroup(pygame.sprite.Group):
 		self.offset = pygame.math.Vector2()
 
 		# creating the floor
-		self.floor_surf = pygame.image.load('../graphics/tilemap/Map2.png').convert()
+		self.floor_surf = pygame.image.load('../graphics/tilemap/map2.png').convert()
 		self.floor_rect = self.floor_surf.get_rect(topleft = (0,0))
 
 	def custom_draw(self,player):
