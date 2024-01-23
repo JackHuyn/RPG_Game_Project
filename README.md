@@ -30,7 +30,19 @@ To run the game, follow these steps:
    git clone https://github.com/JackHuyn/RPG_Game_Project
 
 2.  Navigate to the project directory
-    cd Test/code
+
+    cd Working/code
 
 3. Run game the script
     run python main.py
+
+4. For testing code
+
+cd Testing/code
+
+
+# Current Issue
+
+With the updated map of 256 x 256 tiled, the map seem to big to load each cycle, leading to low FPS 
+
+Building and nature current not displayed
